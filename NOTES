@@ -1,0 +1,14 @@
+Here is a footer with social buttons if we need it.
+==============
+
+<div class="footer_bottom">
+<div class="more_size">
+    <p>Copyright © 2015 <span>Little Explorers</span> Adventures - All Rights Reserved.</p>
+    <ul>
+  <li><a href="#"><img src="images/img-17.png" alt="facebook" /></a></li>
+  <li><a href="#"><img src="images/img-18.png" alt="twitter" /></a></li>
+  <li><a href="#"><img src="images/img-19.png" alt="google" /></a></li>
+  <li><a href="#"><img src="images/img-20.png" alt="linkdin" /></a></li>
+</ul>
+  </div>
+</div>
