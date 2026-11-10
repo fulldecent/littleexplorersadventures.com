@@ -10,3 +10,6 @@ js/owl.carousel.min.js
 css/jquery-ui.css
 css/ie7.css
 css/ie8.css
+
+# The liquid HTML parser inserts a new blank line on every run.
+index.html
