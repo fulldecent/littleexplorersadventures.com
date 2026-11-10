@@ -1,2 +1,12 @@
 # Markdown is formatted by markdownlint-cli2. Prettier's Markdown parser fights kramdown.
 *.md
+
+# Third-party libraries.
+js/jquery.js
+js/jquery-1.9.1.min.js
+js/jquery-ui.js
+js/owl.carousel.js
+js/owl.carousel.min.js
+css/jquery-ui.css
+css/ie7.css
+css/ie8.css
